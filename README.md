@@ -38,4 +38,5 @@ All code was written and executed in Visual Studio Code (VS Code). The integrate
 
 In conclusion, this project demonstrates how real-time communication can be achieved using browser technologies and WebSockets. While the current version supports communication between tabs, the structure and logic are in place to upgrade it for broader, networked usage. This project serves as a strong foundation for more advanced chat applications.
 #OUTPUT
-file:///C:/Users/mahaa/New%20folder%20(5)/online%20learning%20%20%20platform/REAL%20-TIME-CHAT%20APPLICATION/port.Html
+![Uploading IMG-20250610-WA0042[1].jpg…]()
+
